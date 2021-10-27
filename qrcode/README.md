@@ -16,8 +16,6 @@ Dependencies
 qrcode pillow Installation
 ------------
 
-For a standard install (which will include pillow for generating images), run:
+To install the current released version(which will include pillow for generating images), run:
 
-To install the current released version:
-
-    $ pip install qrcode[pil]
+    $ pip3 install qrcode[pil]
