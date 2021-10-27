@@ -1,7 +1,23 @@
-# terminal-change-font-color
-Basic Font Color Changer Project.
+Pure python QR Code generator
+------------
+Basic QRCode project.
 Made with Python.
-Linux Environment.
 
-![input](https://user-images.githubusercontent.com/56837694/130030891-5fa9d15d-f6bb-45a8-92f8-826f59f3cfa5.png)
+<p align="center">
 
+  <img src="https://user-images.githubusercontent.com/56837694/139023243-4041938a-65be-4b45-97f8-b75a1ee841f5.png">
+
+</p>
+
+Dependencies
+------------
+1) qrcode pillow
+
+qrcode pillow Installation
+------------
+
+For a standard install (which will include pillow for generating images), run:
+
+To install the current released version:
+
+    $ pip install qrcode[pil]
