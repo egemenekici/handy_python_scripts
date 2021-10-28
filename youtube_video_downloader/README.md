@@ -26,4 +26,4 @@ youtube_dl Installation
 
 To install the current released version:
 
-    $ pip3 install qrcode[pil]
+    $ pip3 install youtube_dl
